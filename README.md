@@ -4,7 +4,6 @@
 
 
 ### Installing the ADK (Prerequisite)
-Microsoft Assessment and Deployment Kit
-
-[Windows ADK for Windows 10, version 2004](https://go.microsoft.com/fwlink/?linkid=2120254)
-[Windows PE add-on for the ADK, version 2004](https://go.microsoft.com/fwlink/?linkid=2120253)
+Microsoft Assessment and Deployment Kit:
+* [Windows ADK for Windows 10, version 2004](https://go.microsoft.com/fwlink/?linkid=2120254)
+* [Windows PE add-on for the ADK, version 2004](https://go.microsoft.com/fwlink/?linkid=2120253)
